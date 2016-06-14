@@ -7,6 +7,7 @@ Do no execute this python script.
 def function_a():
     print 'this variable'
     print 'product of 5 x 5'
+    print 'new line'
 
 def function_b():
     print 'this variable'
